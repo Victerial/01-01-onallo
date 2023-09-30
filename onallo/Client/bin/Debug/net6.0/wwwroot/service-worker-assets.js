@@ -865,11 +865,11 @@
       "url": "_framework\/onallo.Shared.pdb"
     },
     {
-      "hash": "sha256-5U6bVFzdMikfIq5LOgd2EheAVtEv40jMMDg5z6z4M9c=",
+      "hash": "sha256-\/gscW\/d7xpqDYkg4Gk2dZcIX1eqmJku2J58p5pMWgWs=",
       "url": "_framework\/onallo.Client.dll"
     },
     {
-      "hash": "sha256-jxSKpCetEu50yyjPQw5gQz22BFIGTUoG1s1fWa7EqIw=",
+      "hash": "sha256-LtdPrNRpIYm6SPg3\/c1un5HKSes2Ekk30QP5UB3OPak=",
       "url": "_framework\/onallo.Client.pdb"
     },
     {
@@ -877,9 +877,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-p74lOYmgQRgxFA8HM0IG6bKQ6IkP2KJwOcdRSrtCPBk=",
+      "hash": "sha256-b+U8sPt8RkRPRl1QN5k\/wCKh\/9ZFnuhtDK2BySRQLiQ=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "guB1EXjV"
+  "version": "sZ65LRfp"
 };
