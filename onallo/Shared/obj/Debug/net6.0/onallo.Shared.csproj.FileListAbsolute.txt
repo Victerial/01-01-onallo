@@ -1,0 +1,12 @@
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\bin\Debug\net6.0\onallo.Shared.deps.json
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\bin\Debug\net6.0\onallo.Shared.dll
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\bin\Debug\net6.0\onallo.Shared.pdb
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\obj\Debug\net6.0\onallo.Shared.csproj.AssemblyReference.cache
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\obj\Debug\net6.0\onallo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\obj\Debug\net6.0\onallo.Shared.AssemblyInfoInputs.cache
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\obj\Debug\net6.0\onallo.Shared.AssemblyInfo.cs
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\obj\Debug\net6.0\onallo.Shared.csproj.CoreCompileInputs.cache
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\obj\Debug\net6.0\onallo.Shared.dll
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\obj\Debug\net6.0\refint\onallo.Shared.dll
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\obj\Debug\net6.0\onallo.Shared.pdb
+D:\SULIS\2023-2024\gycs\onallo\onallo\Shared\obj\Debug\net6.0\ref\onallo.Shared.dll

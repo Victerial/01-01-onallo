@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\onallo.Server.props" />
+</Project>

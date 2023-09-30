@@ -1,0 +1,25 @@
+﻿@page "/RectangleModel"
+@using onallo.Client.ViewModels.BaseClass;
+@using System.ComponentModel;
+@using onallo.Shared;
+   
+
+
+<h3>Téglalap Terület Számító</h3>
+
+<div class="form-group">
+    <label for="width">Szélesség:</label>
+    <input type="number" class="form-control" id="width" @bind="ViewModel.Width" />
+</div>
+<div class="form-group">
+    <label for="height">Magasság:</label>
+    <input type="number" class="form-control" id="height" @bind="ViewModel.Height" />
+</div>
+
+<div class="result">
+    Terület: @ViewModel.Area
+</div>
+
+@code {
+    private RectangleViewModel ViewModel { get; } = new RectangleViewModel();
+}
