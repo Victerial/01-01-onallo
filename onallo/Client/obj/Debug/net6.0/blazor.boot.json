@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-CgGkoZQx73t3qchcsu85kgBcgrjNEOiudArOwKNb18k=",
       "System.Private.CoreLib.dll": "sha256-6nUSjiT7okMlkN897OnDypwppYuK7JxTahOClXkAuwE=",
       "onallo.Shared.dll": "sha256-Y92BgEwxv2Ko+7kzDAyI7onRw4bRWeTPDP5m6U0UzeI=",
-      "onallo.Client.dll": "sha256-\/gscW\/d7xpqDYkg4Gk2dZcIX1eqmJku2J58p5pMWgWs="
+      "onallo.Client.dll": "sha256-Z6\/ActQtW6WPuBqpEC12rdj8vKBmR1LjX6m8Nwu+ZbI="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "onallo.Shared.pdb": "sha256-rz68LAp9PcBznUEE1V6IfqX\/6elnfvMwG7tC4xGm5Xo=",
-      "onallo.Client.pdb": "sha256-LtdPrNRpIYm6SPg3\/c1un5HKSes2Ekk30QP5UB3OPak="
+      "onallo.Client.pdb": "sha256-q5vhfO8s3xB0oAym8JCcWSF91xIMEGmhRMP7wAGiLfU="
     },
     "runtime": {
       "dotnet.6.0.16.me33zyerzy.js": "sha256-GT2gK+GjOisRXJY+9yh6H8s6K\/KDIsaFMFIgWvAnttY=",
